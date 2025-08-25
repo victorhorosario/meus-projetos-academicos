@@ -1,0 +1,88 @@
+body {
+    text-align: center;
+    color:   #ffffff;
+    margin: 0;
+    height: 100vh;
+    background-image: url(Cine\ Vibe\ LOGO\ MENU.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-blend-mode: overlay;
+    transition: 0.5s;
+    overflow-y: hidden;
+    overflow-x: hidden;
+
+}
+
+body:before {
+    content: '';
+    position: absolute;
+    left: 0;
+    width: 200%;
+    height: 300%;
+    background-color: rgba(0, 0, 0, 0.9);
+    /* Cor preta com 50% de transparência */
+    z-index: -1;
+}
+
+.sidebar{
+    height: 100%;
+    width: 60px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #02529b;
+    overflow: hidden; /*Esconder conteúdo*/
+    transition: 0.3s;
+}
+
+.sidebar a {
+        padding: 15px 10px;
+        text-decoration: none;
+        font-size: 16px;
+        
+        color: white;
+        transition: 0.3s;
+        display: block;
+        opacity: 0;
+        visibility: hidden; /*Ocultar os links*/
+}
+
+
+.sidebar:hover{
+    width: 200px;
+}
+
+.sidebar:hover a{
+ opacity: 1; /*Torna os links visiveis*/
+ visibility: visible; /*Exibe os links*/
+}
+
+
+.sidebar a:hover{
+    background-color: rgb(10, 10, 10);
+}
+
+
+
+.main{
+
+padding: 20px;
+transition: margin-left 0.3s;
+
+}
+
+.sidebar:hover ~.main{
+margin-left: 200px;
+}
+
+
+
+.imdb{
+    width: 50px;
+}
+
+.nota{
+    display: inline-block;
+    padding: 5px;
+}
