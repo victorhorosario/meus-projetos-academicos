@@ -27,7 +27,3 @@ Este projeto é uma página web desenvolvida como trabalho acadêmico, com o obj
 
 ## 📸 Preview
 > Você pode visualizar o projeto abrindo o arquivo `index.html` em seu navegador local.
-
----
-
-Se quiser, posso te ajudar a criar o CSS para deixar o visual ainda mais impactante ou montar uma versão responsiva. Quer que eu revise o estilo ou te ajude a subir esse projeto no GitHub passo a passo?
