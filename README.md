@@ -13,5 +13,5 @@ Bem-vindo ao meu portfólio! Sou estudante de Sistemas de Informação, formado 
 - Suporte Técnico
 
 ## 📫 Contato
-- [LinkedIn](www.linkedin.com/in/victor-rosario-2872b6251)
+- [LinkedIn](https://www.linkedin.com/in/victor-rosario-2872b6251/)
 - Email: victorhugoorosario@gmail.com
