@@ -9,7 +9,8 @@ Bem-vindo ao meu portfólio! Sou estudante de Sistemas de Informação, formado 
 
 ## 🎯 Áreas de interesse
 - Desenvolvimento Web
-- Segurança da Informação
+- Desenvolvimento de Software
+- Full Stack
 - Suporte Técnico
 
 ## 📫 Contato
