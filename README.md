@@ -17,7 +17,3 @@ Bem-vindo ao meu portfólio! Sou estudante de Sistemas de Informação, formado 
 ## 📫 Contato
 - [LinkedIn](https://www.linkedin.com/in/victor-rosario-2872b6251/)
 - Email: victorhugoorosario@gmail.com
-
-## 👨‍💻 Acesso
-- Acesse aos meus projetos acadêmicos através desse link:
-- https://victorhorosario.github.io/meus-projetos-academicos/
