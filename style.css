@@ -1,4 +1,4 @@
-
+/* Reset básico */
 * {
     margin: 0;
     padding: 0;
@@ -7,15 +7,15 @@
 
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: #f4f4f4;
-    color: #333;
     line-height: 1.6;
     padding: 20px;
+    transition: background-color 0.3s ease, color 0.3s ease;
 }
 
-header {
-    text-align: center;
-    margin-bottom: 40px;
+/* Light Mode padrão */
+body {
+    background-color: #f4f4f4;
+    color: #333;
 }
 
 header h1 {
@@ -74,4 +74,41 @@ footer {
     margin-top: 60px;
     font-size: 0.9em;
     color: #777;
+}
+
+/* 🌙 Dark Mode */
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #121212;
+        color: #e0e0e0;
+    }
+
+    header h1 {
+        color: #ffffff;
+    }
+
+    header p {
+        color: #cccccc;
+    }
+
+    section h2 {
+        color: #ffffff;
+    }
+
+    li {
+        background-color: #1e1e1e;
+        box-shadow: 0 2px 5px rgba(255,255,255,0.05);
+    }
+
+    a {
+        color: #4fc3f7;
+    }
+
+    a:hover {
+        color: #81d4fa;
+    }
+
+    footer {
+        color: #aaaaaa;
+    }
 }
