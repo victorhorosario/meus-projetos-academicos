@@ -5,7 +5,6 @@ Bem-vindo ao meu portfólio! Sou estudante de Sistemas de Informação, formado 
 
 ## 🎓 Formação
 - Técnico de Informática – Senac Osasco
-- Técnico em Desevolvimento de Sistemas - Senac EAD
 - Bacharelado em Sistemas de Informação – Universidade Paulista -Em andamento
 
 ## 🎯 Áreas de interesse
