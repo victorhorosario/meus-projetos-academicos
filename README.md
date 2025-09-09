@@ -1,4 +1,4 @@
-# 👨‍💻 Portfólio Acadêmico - Victor
+# 👨‍💻 Portfólio Acadêmico
 
 Bem-vindo ao meu portfólio! Sou estudante de Sistemas de Informação, formado em Técnico de Informática pelo Senac. Aqui você encontrará meus projetos acadêmicos, experiências com linguagens como HTML, CSS e JavaScript
 
