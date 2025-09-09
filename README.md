@@ -1,6 +1,6 @@
 # 👨‍💻 Portfólio Acadêmico - Victor
 
-Bem-vindo ao meu portfólio! Sou estudante de Sistemas de Informação, formado em Técnico de Informática pelo Senac. Aqui você encontrará meus projetos acadêmicos, experiências com linguagens como C#, ASP.NET Core, HTML, CSS, JavaScript e SQL.
+Bem-vindo ao meu portfólio! Sou estudante de Sistemas de Informação, formado em Técnico de Informática pelo Senac. Aqui você encontrará meus projetos acadêmicos, experiências com linguagens como HTML, CSS e JavaScript
 
 
 ## 🎓 Formação
@@ -10,7 +10,6 @@ Bem-vindo ao meu portfólio! Sou estudante de Sistemas de Informação, formado 
 ## 🎯 Áreas de interesse
 - Desenvolvimento Web
 - Desenvolvimento de Software
-- Full Stack
 - Suporte Técnico
 
 ## 📫 Contato
